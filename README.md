@@ -68,7 +68,7 @@ Private education and data platform. I work on reliable backend services, reprod
 
 ## Production engineering
 
-Alongside public projects, I build and operate **K2SO**, a Discord community-operations bot with a 10,000+ user footprint. Its systems cover role-aware moderation, protected audit trails, ticket transcripts, staff applications, reports, vacations, weekly payroll, and persistent SQLite state.
+Alongside public projects, I build and operate **K2SO**, a Discord community-operations bot with a 20,000+ user footprint. Its systems cover role-aware moderation, protected audit trails, ticket transcripts, staff applications, reports, vacations, weekly payroll, and persistent SQLite state.
 
 The interesting part is not the command count—it is making permissions, scheduled workflows, restarts, migrations, and human review behave predictably in a live community.
 

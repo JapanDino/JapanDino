@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+<title id="title">A small dinosaur</title>
+<circle cx="128" cy="128" r="120" fill="#eee9df"/>
+<path d="M21 101C59 134 98 147 127 127L154 100L159 52Q160 37 176 37H205Q220 37 220 52V67H191L187 113Q183 141 160 153L170 193H152L138 160L113 159L101 193H84L93 152Q49 141 21 101Z" fill="#424b40"/>
+<circle cx="205" cy="51" r="3" fill="#eee9df"/>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="1200" alt="JapanDino — AI / ML / full-stack. Learning systems. Thoughtful software." />
+  <img src="./assets/profile-banner.svg?v=2" width="1200" alt="JapanDino — AI / ML / full-stack. Learning systems. Thoughtful software." />
 </p>
 
 I build software across **machine learning, backend systems, and product interfaces**: from reviewable RAG pipelines to local-first desktop apps.

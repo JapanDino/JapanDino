@@ -4,7 +4,7 @@ I work on ML tools and desktop apps.
 
 A few things I've been working on:
 
-- **ML-platform** — a joint project we're building on our existing platforms, BOOML and remull. Currently in development.
+- **ML-platform** — a platform we're building together with the Cyprus team, based on BOOML and remull. Currently in development.
 - [Bloom RAG Studio](https://github.com/JapanDino/RAG-tool) — a tool for exploring learning materials through Bloom's taxonomy, a knowledge graph, and chat with sources.
 - [Dinox Desktop](https://github.com/JapanDino/Dinox-Desktop) — a dock, calendar, search, and widgets for Windows. An early community release built on Bloom by sehaz.
 - [Avatry](https://github.com/JapanDino/Avatry) — a virtual fitting-room prototype with measurement-based 3D avatars and garment-fit visualization.

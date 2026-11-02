@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">JapanDino — Machine learning and software</title>
-  <desc id="desc">Minimal editorial composition: warm ivory, charcoal typography, a muted terracotta circle and fine orbital lines.</desc>
+  <desc id="desc">Minimal editorial composition: warm ivory, charcoal typography, a sculptural dinosaur silhouette and a muted terracotta accent.</desc>
   <defs>
     <clipPath id="frame"><rect width="1200" height="320" rx="12"/></clipPath>
   </defs>
@@ -11,13 +11,11 @@
     <text x="128" y="74" fill="#5a5a52" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3.3">MACHINE LEARNING &amp; SOFTWARE</text>
     <text x="61" y="184" fill="#242823" font-family="Georgia,'Times New Roman',serif" font-size="88" letter-spacing="-3">JapanDino</text>
     <text x="66" y="223" fill="#555b51" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing=".25">Learning systems. Thoughtful software.</text>
-    <g transform="translate(1005 146)" fill="none" stroke="#c2b8a8" stroke-width="1">
-      <ellipse rx="103" ry="103"/>
-      <ellipse rx="103" ry="36" transform="rotate(-42)"/>
-      <ellipse rx="103" ry="36" transform="rotate(42)"/>
-      <path d="M-134 0H134" stroke="#d4cdc1"/>
-    </g>
-    <circle cx="1005" cy="146" r="29" fill="#a8644c"/>
+    <circle cx="1001" cy="144" r="101" fill="#eae4d9"/>
+    <path d="M867 131C905 164 944 177 973 157L1000 130L1005 82Q1006 67 1022 67H1051Q1066 67 1066 82V97H1037L1033 143Q1029 171 1006 183L1016 223H998L984 190L959 189L947 223H930L939 182Q895 171 867 131Z" fill="#424b40"/>
+    <path d="M867 131C905 164 944 177 973 157L1000 130L1005 82" fill="none" stroke="#f4f1eb" stroke-opacity=".4" stroke-width="1.5"/>
+    <circle cx="1051" cy="81" r="2.3" fill="#f4f1eb"/>
+    <circle cx="1107" cy="82" r="9" fill="#a8644c"/>
     <text x="66" y="286" fill="#686b61" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.2">AI / ML</text>
     <text x="1135" y="286" text-anchor="end" fill="#686b61" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.2">BACKEND / FULL-STACK</text>
   </g>
